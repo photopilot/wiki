@@ -3,13 +3,13 @@
 ## Download photoshop actions
 1. [Download hier](https://cdn.photopilot.ai/photopilot-edit-action)
 2. Open photoshop
-3. Open photoshop acties
+3. Open photoshop acties__
    
-![Photoshop actions](../assets/pa-1.png)
+![Photoshop actions](../assets/pa-1.png)__
 
-5. Klik op "Load actions (Laad acties)"
+5. Klik op "Load actions (Laad acties)"__
    
-![Photoshop actions](../assets/pa-2.png)
+![Photoshop actions](../assets/pa-2.png)__
 
 7. Selecteer de gedownloade actie
 8. De photoshop actie is nu klaar voor gebruik
