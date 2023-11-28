@@ -5,11 +5,11 @@
 2. Open photoshop
 3. Open photoshop acties__
    
-![Photoshop actions](../assets/pa-1.png)__
+![Photoshop actions](../assets/pa-1.png)
 
 5. Klik op "Load actions (Laad acties)"__
    
-![Photoshop actions](../assets/pa-2.png)__
+![Photoshop actions](../assets/pa-2.png)
 
 7. Selecteer de gedownloade actie
 8. De photoshop actie is nu klaar voor gebruik
