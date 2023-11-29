@@ -1,4 +1,9 @@
-# Wiki
+# Wiki van PhotoPilot
 
-## Photoshop actions
-1. [Download hier](https://cdn.photopilot.ai/photopilot-edit-action)
+## PhotoPilot App
+
+### Windows
+[Download hier](https://cdn.photopilot.ai/PhotoPilot-Setup-1.0.0.exe)
+
+### MacOs
+[Download hier](https://cdn.photopilot.ai/PhotoPilot-1.0.0-arm64.dmg)
