@@ -1,15 +1,28 @@
-# Edit foto's in photoshop
+# Edit photo's using photoshop directly in interface
 
-## Download photoshop actions
-1. [Download hier](https://cdn.photopilot.ai/photopilot-edit-action)
-2. Open photoshop
-3. Open photoshop acties
+# Dutch
+1. [Download photopilot-edit-action.atn](https://cdn.photopilot.ai/photopilot-edit-action.atn)
+2. Open Photoshop
+3. Open Venster > Handelingen
    
 ![Photoshop actions](../assets/pa-1.png)
 
-5. Klik op "Load actions (Laad acties)"
+5. Klik op "Laad handeling"
    
 ![Photoshop actions](../assets/pa-3.png)
 
 7. Selecteer de gedownloade actie
-8. De photoshop actie is nu klaar voor gebruik
+
+
+# English
+1. [Download photopilot-edit-action.atn](https://cdn.photopilot.ai/photopilot-edit-action.atn)
+2. Open Photoshop
+3. Open Window > Actions
+   
+![Photoshop actions](../assets/pa-1.png)
+
+5. Click on "Load actions"
+   
+![Photoshop actions](../assets/pa-3.png)
+
+7. Select downloaded action
