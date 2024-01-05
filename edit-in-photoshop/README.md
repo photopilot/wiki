@@ -1,7 +1,7 @@
 # Edit photo's using photoshop directly in interface
 
 # Dutch
-1. [Download photopilot-edit-action.atn](https://cdn.photopilot.ai/photopilot-edit-action.atn)
+1. [Download photopilot-edit-action.atn](https://cdn.photopilot.ai/photopilot-edit-action-2.atn)
 2. Open Photoshop
 3. Open Venster > Handelingen
    
@@ -15,7 +15,7 @@
 
 
 # English
-1. [Download photopilot-edit-action.atn](https://cdn.photopilot.ai/photopilot-edit-action.atn)
+1. [Download photopilot-edit-action.atn](https://cdn.photopilot.ai/photopilot-edit-action-2.atn)
 2. Open Photoshop
 3. Open Window > Actions
    
